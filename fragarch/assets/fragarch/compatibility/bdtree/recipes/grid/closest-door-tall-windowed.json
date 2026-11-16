@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Tall windowed door (Birch)",
+    "ingredientPattern": "AWW,GWW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 },
+      "G": { "type": "item", "code": "game:{glass}", "quantity": 1 }
+    },
+    "allowedVariants": {
+      "bdwood": ["mangrove", "saxaul"],
+      "glass": ["clearquartz", "smokyquartz"]
+    },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-birch" }
+  },
+  {
+    "name": "Tall windowed door (Oak)",
+    "ingredientPattern": "AWW,GWW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 },
+      "G": { "type": "item", "code": "game:{glass}", "quantity": 1 }
+    },
+    "allowedVariants": {
+      "bdwood": ["catalpa", "sal", "tamanu"],
+      "glass": ["clearquartz", "smokyquartz"]
+    },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-oak" }
+  },
+  {
+    "name": "Tall windowed door (Maple)",
+    "ingredientPattern": "AWW,GWW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 },
+      "G": { "type": "item", "code": "game:{glass}", "quantity": 1 }
+    },
+    "allowedVariants": {
+      "bdwood": ["fir", "ohia", "poplar"],
+      "glass": ["clearquartz", "smokyquartz"]
+    },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-maple" }
+  },
+  {
+    "name": "Tall windowed door (Pine)",
+    "ingredientPattern": "AWW,GWW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 },
+      "G": { "type": "item", "code": "game:{glass}", "quantity": 1 }
+    },
+    "allowedVariants": {
+      "bdwood": ["cedar", "horsechestnut", "spruce", "tuja"],
+      "glass": ["clearquartz", "smokyquartz"]
+    },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-pine" }
+  },
+  {
+    "name": "Tall windowed door (Acacia)",
+    "ingredientPattern": "AWW,GWW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 },
+      "G": { "type": "item", "code": "game:{glass}", "quantity": 1 }
+    },
+    "allowedVariants": {
+      "bdwood": ["azobe", "eucalyptus", "rosewood", "mahogany"],
+      "glass": ["clearquartz", "smokyquartz"]
+    },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-acacia" }
+  },
+  {
+    "name": "Tall windowed door (Kapok)",
+    "ingredientPattern": "AWW,GWW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 },
+      "G": { "type": "item", "code": "game:{glass}", "quantity": 1 }
+    },
+    "allowedVariants": {
+      "bdwood": ["banyan", "ginkgo", "satinash"],
+      "glass": ["clearquartz", "smokyquartz"]
+    },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-kapok" }
+  },
+  {
+    "name": "Tall windowed door (Bald cypress)",
+    "ingredientPattern": "AWW,GWW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 },
+      "G": { "type": "item", "code": "game:{glass}", "quantity": 1 }
+    },
+    "allowedVariants": {
+      "bdwood": ["empresstree", "sycamore"],
+      "glass": ["clearquartz", "smokyquartz"]
+    },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-baldcypress" }
+  },
+  {
+    "name": "Tall windowed door (Larch)",
+    "ingredientPattern": "AWW,GWW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 },
+      "G": { "type": "item", "code": "game:{glass}", "quantity": 1 }
+    },
+    "allowedVariants": {
+      "bdwood": ["beech", "ghostgum"],
+      "glass": ["clearquartz", "smokyquartz"]
+    },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-larch" }
+  },
+  {
+    "name": "Tall windowed door (Redwood)",
+    "ingredientPattern": "AWW,GWW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 },
+      "G": { "type": "item", "code": "game:{glass}", "quantity": 1 }
+    },
+    "allowedVariants": {
+      "bdwood": ["douglasfir", "linden"],
+      "glass": ["clearquartz", "smokyquartz"]
+    },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-redwood" }
+  },
+  {
+    "name": "Tall windowed door (Ebony)",
+    "ingredientPattern": "AWW,GWW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 },
+      "G": { "type": "item", "code": "game:{glass}", "quantity": 1 }
+    },
+    "allowedVariants": {
+      "bdwood": ["bearnut", "charred", "dalbergia", "leadwood", "sapele", "tigerwood"],
+      "glass": ["clearquartz", "smokyquartz"]
+    },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-ebony" }
+  },
+  {
+    "name": "Tall windowed door (Walnut)",
+    "ingredientPattern": "AWW,GWW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 },
+      "G": { "type": "item", "code": "game:{glass}", "quantity": 1 }
+    },
+    "allowedVariants": {
+      "bdwood": ["ash", "elm", "guajacum", "kauri", "spurgetree"],
+      "glass": ["clearquartz", "smokyquartz"]
+    },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-walnut" }
+  },
+  {
+    "name": "Tall windowed door (Purpleheart)",
+    "ingredientPattern": "AWW,GWW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 },
+      "G": { "type": "item", "code": "game:{glass}", "quantity": 1 }
+    },
+    "allowedVariants": {
+      "bdwood": ["bluemahoe", "honeylocust", "redcedar", "umnini"],
+      "glass": ["clearquartz", "smokyquartz"]
+    },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-purpleheart" }
+  }
+]

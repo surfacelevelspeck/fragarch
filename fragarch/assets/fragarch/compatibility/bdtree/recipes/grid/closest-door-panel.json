@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Panel door (Birch)",
+    "ingredientPattern": "AWW,_WW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 1 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
+    },
+    "allowedVariants": { "bdwood": ["mangrove", "saxaul"] },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-sleek-panel-birch" }
+  },
+  {
+    "name": "Panel door (Oak)",
+    "ingredientPattern": "AWW,_WW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 1 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
+    },
+    "allowedVariants": { "bdwood": ["catalpa", "sal", "tamanu"] },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-sleek-panel-oak" }
+  },
+  {
+    "name": "Panel door (Maple)",
+    "ingredientPattern": "AWW,_WW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 1 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
+    },
+    "allowedVariants": { "bdwood": ["fir", "ohia", "poplar"] },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-sleek-panel-maple" }
+  },
+  {
+    "name": "Panel door (Pine)",
+    "ingredientPattern": "AWW,_WW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 1 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
+    },
+    "allowedVariants": { "bdwood": ["cedar", "horsechestnut", "spruce", "tuja"] },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-sleek-panel-pine" }
+  },
+  {
+    "name": "Panel door (Acacia)",
+    "ingredientPattern": "AWW,_WW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 1 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
+    },
+    "allowedVariants": { "bdwood": ["azobe", "eucalyptus", "rosewood", "mahogany"] },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-sleek-panel-acacia" }
+  },
+  {
+    "name": "Panel door (Kapok)",
+    "ingredientPattern": "AWW,_WW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 1 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
+    },
+    "allowedVariants": { "bdwood": ["banyan", "ginkgo", "satinash"] },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-sleek-panel-kapok" }
+  },
+  {
+    "name": "Panel door (Bald cypress)",
+    "ingredientPattern": "AWW,_WW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 1 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
+    },
+    "allowedVariants": { "bdwood": ["empresstree", "sycamore"] },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-sleek-panel-baldcypress" }
+  },
+  {
+    "name": "Panel door (Larch)",
+    "ingredientPattern": "AWW,_WW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 1 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
+    },
+    "allowedVariants": { "bdwood": ["beech", "ghostgum"] },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-sleek-panel-larch" }
+  },
+  {
+    "name": "Panel door (Redwood)",
+    "ingredientPattern": "AWW,_WW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 1 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
+    },
+    "allowedVariants": { "bdwood": ["douglasfir", "linden"] },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-sleek-panel-redwood" }
+  },
+  {
+    "name": "Panel door (Ebony)",
+    "ingredientPattern": "AWW,_WW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 1 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
+    },
+    "allowedVariants": { "bdwood": ["bearnut", "charred", "dalbergia", "leadwood", "sapele", "tigerwood"] },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-sleek-panel-ebony" }
+  },
+  {
+    "name": "Panel door (Walnut)",
+    "ingredientPattern": "AWW,_WW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 1 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
+    },
+    "allowedVariants": { "bdwood": ["ash", "elm", "guajacum", "kauri", "spurgetree"] },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-sleek-panel-walnut" }
+  },
+  {
+    "name": "Panel door (Purpleheart)",
+    "ingredientPattern": "AWW,_WW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 1 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
+    },
+    "allowedVariants": { "bdwood": ["bluemahoe", "honeylocust", "redcedar", "umnini"] },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-sleek-panel-purpleheart" }
+  }
+]

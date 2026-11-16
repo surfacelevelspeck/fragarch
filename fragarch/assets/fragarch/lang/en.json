@@ -1,0 +1,10 @@
+{
+  "game:tabname-fragarch": "Fragmented Architecture",
+  "fragarch:block-door-sleek-panel-*": "Paneled door",
+  "fragarch:block-door-tall-sleek-windowed-*": "Tall sleek door",
+  "fragarch:block-door-tall-sleek-panel-*": "Tall paneled door",
+  "fragarch:block-door-tall-solid-*": "Tall solid door",
+  
+  "game:block-door-1x3gate-*": "1 by 3 gate",
+  "bdtree:block-diir-1x3gate-*": "1 by 3 gate"
+}

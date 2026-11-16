@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Tall solid door",
+    "ingredientPattern": "WW,WW,WW",
+    "ingredients": {
+      "W": { "type": "item", "code": "game:plank-{wood}", "quantity": 3 }
+    },
+    "width": 2,
+    "height": 3,
+    "output": { "type": "block", "code": "fragarch:door-tall-solid-{wood}" }
+  },
+  {
+    "name": "Tall windowed door",
+    "ingredientPattern": "AWW,GWW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "game:plank-{wood}", "quantity": 2 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 },
+      "G": { "type": "item", "code": "game:{glass}", "quantity": 1 }
+    },
+    "allowedVariants": { "glass": ["clearquartz", "smokyquartz"] },
+    "skipVariants": { "wood": ["veryaged"] },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-{wood}" }
+  },
+  {
+    "name": "Tall panel door",
+    "ingredientPattern": "AWW,_WW,NWW",
+    "ingredients": {
+      "W": { "type": "item", "code": "game:plank-{wood}", "quantity": 2 },
+      "A": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
+    },
+    "skipVariants": { "wood": ["veryaged"] },
+    "requiresTrait": "woodworking-basic",
+    "width": 3,
+    "height": 3,
+    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-panel-{wood}" }
+  }
+]

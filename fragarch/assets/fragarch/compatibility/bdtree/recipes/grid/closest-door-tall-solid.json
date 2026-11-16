@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Tall solid door (Birch)",
+    "ingredientPattern": "WW,WW,WW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 3 }
+    },
+    "allowedVariants": { "bdwood": ["mangrove", "saxaul"] },
+    "width": 2,
+    "height": 3,
+    "output": { "type": "block", "code": "fragarch:door-tall-solid-birch" }
+  },
+  {
+    "name": "Tall solid door (Oak)",
+    "ingredientPattern": "WW,WW,WW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 3 }
+    },
+    "allowedVariants": { "bdwood": ["catalpa", "sal", "tamanu"] },
+    "width": 2,
+    "height": 3,
+    "output": { "type": "block", "code": "fragarch:door-tall-solid-oak" }
+  },
+  {
+    "name": "Tall solid door (Maple)",
+    "ingredientPattern": "WW,WW,WW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 3 }
+    },
+    "allowedVariants": { "bdwood": ["fir", "ohia", "poplar"] },
+    "width": 2,
+    "height": 3,
+    "output": { "type": "block", "code": "fragarch:door-tall-solid-maple" }
+  },
+  {
+    "name": "Tall solid door (Pine)",
+    "ingredientPattern": "WW,WW,WW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 3 }
+    },
+    "allowedVariants": { "bdwood": ["cedar", "horsechestnut", "spruce", "tuja"] },
+    "width": 2,
+    "height": 3,
+    "output": { "type": "block", "code": "fragarch:door-tall-solid-pine" }
+  },
+  {
+    "name": "Tall solid door (Acacia)",
+    "ingredientPattern": "WW,WW,WW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 3 }
+    },
+    "allowedVariants": { "bdwood": ["azobe", "eucalyptus", "rosewood", "mahogany"] },
+    "width": 2,
+    "height": 3,
+    "output": { "type": "block", "code": "fragarch:door-tall-solid-acacia" }
+  },
+  {
+    "name": "Tall solid door (Kapok)",
+    "ingredientPattern": "WW,WW,WW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 3 }
+    },
+    "allowedVariants": { "bdwood": ["banyan", "ginkgo", "satinash"] },
+    "width": 2,
+    "height": 3,
+    "output": { "type": "block", "code": "fragarch:door-tall-solid-kapok" }
+  },
+  {
+    "name": "Tall solid door (Bald cypress)",
+    "ingredientPattern": "WW,WW,WW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 3 }
+    },
+    "allowedVariants": { "bdwood": ["empresstree", "sycamore"] },
+    "width": 2,
+    "height": 3,
+    "output": { "type": "block", "code": "fragarch:door-tall-solid-baldcypress" }
+  },
+  {
+    "name": "Tall solid door (Larch)",
+    "ingredientPattern": "WW,WW,WW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 3 }
+    },
+    "allowedVariants": { "bdwood": ["beech", "ghostgum"] },
+    "width": 2,
+    "height": 3,
+    "output": { "type": "block", "code": "fragarch:door-tall-solid-larch" }
+  },
+  {
+    "name": "Tall solid door (Redwood)",
+    "ingredientPattern": "WW,WW,WW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 3 }
+    },
+    "allowedVariants": { "bdwood": ["douglasfir", "linden"] },
+    "width": 2,
+    "height": 3,
+    "output": { "type": "block", "code": "fragarch:door-tall-solid-redwood" }
+  },
+  {
+    "name": "Tall solid door (Ebony)",
+    "ingredientPattern": "WW,WW,WW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 3 }
+    },
+    "allowedVariants": { "bdwood": ["bearnut", "charred", "dalbergia", "leadwood", "sapele", "tigerwood"] },
+    "width": 2,
+    "height": 3,
+    "output": { "type": "block", "code": "fragarch:door-tall-solid-ebony" }
+  },
+  {
+    "name": "Tall solid door (Walnut)",
+    "ingredientPattern": "WW,WW,WW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 3 }
+    },
+    "allowedVariants": { "bdwood": ["ash", "elm", "guajacum", "kauri", "spurgetree"] },
+    "width": 2,
+    "height": 3,
+    "output": { "type": "block", "code": "fragarch:door-tall-solid-walnut" }
+  },
+  {
+    "name": "Tall solid door (Purpleheart)",
+    "ingredientPattern": "WW,WW,WW",
+    "ingredients": {
+      "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 3 }
+    },
+    "allowedVariants": { "bdwood": ["bluemahoe", "honeylocust", "redcedar", "umnini"] },
+    "width": 2,
+    "height": 3,
+    "output": { "type": "block", "code": "fragarch:door-tall-solid-purpleheart" }
+  }
+]

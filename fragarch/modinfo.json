@@ -1,0 +1,15 @@
+{
+    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "type": "Content",
+    "modid": "fragarch",
+    "name": "Fragmented Architecture",
+    "authors": [
+        "surface level speck"
+    ],
+    "description": "Adds custom architecture for use in the Fragments roleplaying server.",
+    "version": "0.1.1",
+    "dependencies": {
+        "game": "1.22.7",
+        "bdtree": ""
+    }
+}

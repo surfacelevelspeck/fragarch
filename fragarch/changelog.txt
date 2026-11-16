@@ -1,0 +1,11 @@
+0.1.1:
+* Added basic woodworking as a requirement for crafting sleek doors.
+* Renamed "Sleek door" to "Windowed door" and "3-tall door" to "1 by 3 gate" in bdtree.
+* Added a modicon!
+
+0.1.0:
+* Updated model for sleek doors to have hinges
+* Created blocktype definition and recipes for paneled doors
+* Created models, blocktype definition, and recipes for tall door variants of all vanilla doors
+* Changed names of vanilla doors and the 1x3 gate for accuracy.
+* Added "closest approximation" support for Biodiversity: Trees so their trees can be used to craft similarly-colored tall and paneled doors.
