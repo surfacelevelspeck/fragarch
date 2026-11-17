@@ -10,8 +10,8 @@
     "handbook": { "groupBy": ["door-sleek-panel-*"] },
     "width": 1,
     "height": 2,
-    "openSound": "sounds/block/door",
-    "closeSound": "sounds/block/door",
+    "openSound": "game:sounds/block/door",
+    "closeSound": "game:sounds/block/door",
     "easingSpeed": 10
   },
   "creativeinventory": { "general": ["*"], "decorative": ["*"], "fragarch": ["*"] },
@@ -49,6 +49,11 @@
   "selectionbox": { "x1": 0, "y1": 0, "z1": 0.875, "x2": 1, "y2": 1, "z2": 1 },
   "collisionbox": { "x1": 0, "y1": 0, "z1": 0.875, "x2": 1, "y2": 1, "z2": 1 },
   "combustibleProps": { "burnTemperature": 600, "burnDuration": 25 },
-  "sounds": { "place": "block/planks", "hit": "block/planks", "break": "block/planks", "walk": "walk/wood" },
+  "sounds": {
+    "place": "game:block/planks",
+    "hit": "game:block/planks",
+    "break": "game:block/planks",
+    "walk": "game:walk/wood"
+  },
   "materialDensity": 600
 }
