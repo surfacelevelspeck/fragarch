@@ -8,7 +8,7 @@
       "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
     },
     "allowedVariants": { "bdwood": ["mangrove", "saxaul"] },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-sleek-panel-birch" }
@@ -22,7 +22,7 @@
       "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
     },
     "allowedVariants": { "bdwood": ["catalpa", "sal", "tamanu"] },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-sleek-panel-oak" }
@@ -36,7 +36,7 @@
       "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
     },
     "allowedVariants": { "bdwood": ["fir", "ohia", "poplar"] },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-sleek-panel-maple" }
@@ -50,7 +50,7 @@
       "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
     },
     "allowedVariants": { "bdwood": ["cedar", "horsechestnut", "spruce", "tuja"] },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-sleek-panel-pine" }
@@ -64,7 +64,7 @@
       "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
     },
     "allowedVariants": { "bdwood": ["azobe", "eucalyptus", "rosewood", "mahogany"] },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-sleek-panel-acacia" }
@@ -78,7 +78,7 @@
       "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
     },
     "allowedVariants": { "bdwood": ["banyan", "ginkgo", "satinash"] },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-sleek-panel-kapok" }
@@ -92,7 +92,7 @@
       "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
     },
     "allowedVariants": { "bdwood": ["empresstree", "sycamore"] },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-sleek-panel-baldcypress" }
@@ -106,7 +106,7 @@
       "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
     },
     "allowedVariants": { "bdwood": ["beech", "ghostgum"] },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-sleek-panel-larch" }
@@ -120,7 +120,7 @@
       "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
     },
     "allowedVariants": { "bdwood": ["douglasfir", "linden"] },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-sleek-panel-redwood" }
@@ -134,7 +134,7 @@
       "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
     },
     "allowedVariants": { "bdwood": ["bearnut", "charred", "dalbergia", "leadwood", "sapele", "tigerwood"] },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-sleek-panel-ebony" }
@@ -148,7 +148,7 @@
       "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
     },
     "allowedVariants": { "bdwood": ["ash", "elm", "guajacum", "kauri", "spurgetree"] },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-sleek-panel-walnut" }
@@ -162,7 +162,7 @@
       "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
     },
     "allowedVariants": { "bdwood": ["bluemahoe", "honeylocust", "redcedar", "umnini"] },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-sleek-panel-purpleheart" }

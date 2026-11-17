@@ -7,7 +7,7 @@
         "surface level speck"
     ],
     "description": "Adds custom architecture for use in the Fragments roleplaying server.",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "dependencies": {
         "game": "",
         "bdtree": ""

@@ -10,7 +10,7 @@
     "output": { "type": "block", "code": "fragarch:door-tall-solid-{wood}" }
   },
   {
-    "name": "Tall windowed door",
+    "name": "Tall sleek door",
     "ingredientPattern": "AWW,GWW,NWW",
     "ingredients": {
       "W": { "type": "item", "code": "game:plank-{wood}", "quantity": 2 },
@@ -20,7 +20,7 @@
     },
     "allowedVariants": { "glass": ["clearquartz", "smokyquartz"] },
     "skipVariants": { "wood": ["veryaged"] },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-{wood}" }
@@ -34,7 +34,7 @@
       "N": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 1 }
     },
     "skipVariants": { "wood": ["veryaged"] },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-tall-sleek-panel-{wood}" }

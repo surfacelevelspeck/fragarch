@@ -684,3 +684,4 @@ CakeBuild/CakeBuild.csproj
 CakeBuild/Program.cs
 fragarch/fragarch.csproj
 fragarch/Properties/launchSettings.json
+screenshots/*

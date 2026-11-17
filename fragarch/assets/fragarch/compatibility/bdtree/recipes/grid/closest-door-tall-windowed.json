@@ -1,6 +1,6 @@
 [
   {
-    "name": "Tall windowed door (Birch)",
+    "name": "Tall sleek door (Birch)",
     "ingredientPattern": "AWW,GWW,NWW",
     "ingredients": {
       "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
@@ -12,13 +12,13 @@
       "bdwood": ["mangrove", "saxaul"],
       "glass": ["clearquartz", "smokyquartz"]
     },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-birch" }
   },
   {
-    "name": "Tall windowed door (Oak)",
+    "name": "Tall sleek door (Oak)",
     "ingredientPattern": "AWW,GWW,NWW",
     "ingredients": {
       "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
@@ -30,13 +30,13 @@
       "bdwood": ["catalpa", "sal", "tamanu"],
       "glass": ["clearquartz", "smokyquartz"]
     },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-oak" }
   },
   {
-    "name": "Tall windowed door (Maple)",
+    "name": "Tall sleek door (Maple)",
     "ingredientPattern": "AWW,GWW,NWW",
     "ingredients": {
       "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
@@ -48,13 +48,13 @@
       "bdwood": ["fir", "ohia", "poplar"],
       "glass": ["clearquartz", "smokyquartz"]
     },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-maple" }
   },
   {
-    "name": "Tall windowed door (Pine)",
+    "name": "Tall sleek door (Pine)",
     "ingredientPattern": "AWW,GWW,NWW",
     "ingredients": {
       "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
@@ -66,13 +66,13 @@
       "bdwood": ["cedar", "horsechestnut", "spruce", "tuja"],
       "glass": ["clearquartz", "smokyquartz"]
     },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-pine" }
   },
   {
-    "name": "Tall windowed door (Acacia)",
+    "name": "Tall sleek door (Acacia)",
     "ingredientPattern": "AWW,GWW,NWW",
     "ingredients": {
       "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
@@ -84,13 +84,13 @@
       "bdwood": ["azobe", "eucalyptus", "rosewood", "mahogany"],
       "glass": ["clearquartz", "smokyquartz"]
     },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-acacia" }
   },
   {
-    "name": "Tall windowed door (Kapok)",
+    "name": "Tall sleek door (Kapok)",
     "ingredientPattern": "AWW,GWW,NWW",
     "ingredients": {
       "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
@@ -102,13 +102,13 @@
       "bdwood": ["banyan", "ginkgo", "satinash"],
       "glass": ["clearquartz", "smokyquartz"]
     },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-kapok" }
   },
   {
-    "name": "Tall windowed door (Bald cypress)",
+    "name": "Tall sleek door (Bald cypress)",
     "ingredientPattern": "AWW,GWW,NWW",
     "ingredients": {
       "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
@@ -120,13 +120,13 @@
       "bdwood": ["empresstree", "sycamore"],
       "glass": ["clearquartz", "smokyquartz"]
     },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-baldcypress" }
   },
   {
-    "name": "Tall windowed door (Larch)",
+    "name": "Tall sleek door (Larch)",
     "ingredientPattern": "AWW,GWW,NWW",
     "ingredients": {
       "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
@@ -138,13 +138,13 @@
       "bdwood": ["beech", "ghostgum"],
       "glass": ["clearquartz", "smokyquartz"]
     },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-larch" }
   },
   {
-    "name": "Tall windowed door (Redwood)",
+    "name": "Tall sleek door (Redwood)",
     "ingredientPattern": "AWW,GWW,NWW",
     "ingredients": {
       "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
@@ -156,13 +156,13 @@
       "bdwood": ["douglasfir", "linden"],
       "glass": ["clearquartz", "smokyquartz"]
     },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-redwood" }
   },
   {
-    "name": "Tall windowed door (Ebony)",
+    "name": "Tall sleek door (Ebony)",
     "ingredientPattern": "AWW,GWW,NWW",
     "ingredients": {
       "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
@@ -174,13 +174,13 @@
       "bdwood": ["bearnut", "charred", "dalbergia", "leadwood", "sapele", "tigerwood"],
       "glass": ["clearquartz", "smokyquartz"]
     },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-ebony" }
   },
   {
-    "name": "Tall windowed door (Walnut)",
+    "name": "Tall sleek door (Walnut)",
     "ingredientPattern": "AWW,GWW,NWW",
     "ingredients": {
       "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
@@ -192,13 +192,13 @@
       "bdwood": ["ash", "elm", "guajacum", "kauri", "spurgetree"],
       "glass": ["clearquartz", "smokyquartz"]
     },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-walnut" }
   },
   {
-    "name": "Tall windowed door (Purpleheart)",
+    "name": "Tall sleek door (Purpleheart)",
     "ingredientPattern": "AWW,GWW,NWW",
     "ingredients": {
       "W": { "type": "item", "code": "bdtree:plank-{bdwood}", "quantity": 2 },
@@ -210,7 +210,7 @@
       "bdwood": ["bluemahoe", "honeylocust", "redcedar", "umnini"],
       "glass": ["clearquartz", "smokyquartz"]
     },
-    "requiresTrait": "woodworking-basic",
+    "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
     "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-purpleheart" }
