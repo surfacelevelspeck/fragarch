@@ -1,5 +1,5 @@
 {
-  "code": "door-sleek-panel",
+  "code": "doorpanel",
   "class": "BlockGeneric",
   "entityClass": "Generic",
 
@@ -7,7 +7,7 @@
   "entityBehaviors": [{ "name": "Door" }],
   "variantgroups": [{ "code": "wood", "states": ["aged"], "loadFromProperties": "block/wood" }],
   "attributes": {
-    "handbook": { "groupBy": ["door-sleek-panel-*"] },
+    "handbook": { "groupBy": ["fragarch:doorpanel-*"] },
     "width": 1,
     "height": 2,
     "openSound": "game:sounds/block/door",

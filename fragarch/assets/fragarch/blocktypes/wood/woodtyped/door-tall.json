@@ -1,5 +1,5 @@
 {
-  "code": "door-tall",
+  "code": "doortall",
   "class": "BlockGeneric",
   "entityClass": "Generic",
 
@@ -9,9 +9,9 @@
     { "code": "style", "states": ["sleek-windowed", "sleek-panel", "solid"] },
     { "code": "wood", "states": ["aged", "veryaged"], "loadFromProperties": "block/wood" }
   ],
-  "skipVariants": ["door-tall-sleek-windowed-veryaged", "door-tall-sleek-panel-veryaged"],
+  "skipVariants": ["doortall-sleek-windowed-veryaged", "doortall-sleek-panel-veryaged"],
   "attributes": {
-    "handbook": { "groupBy": ["door-tall-{style}-*"] },
+    "handbook": { "groupBy": ["fragarch:doortall-{style}-*"] },
     "width": 1,
     "height": 3,
     "openSound": "game:sounds/block/door",
@@ -21,16 +21,16 @@
   "creativeinventory": { "general": ["*"], "decorative": ["*"], "fragarch": ["*"] },
   "shape": { "base": "fragarch:block/wood/door/tall-{style}" },
   "texturesByType": {
-    "door-tall-sleek-windowed-*": {
+    "doortall-sleek-windowed-*": {
       "wood": { "base": "game:block/wood/door/sleek/{wood}" },
       "metal": { "base": "game:block/metal/ingot/iron" },
       "glass": { "base": "game:block/glass/vintage" }
     },
-    "door-tall-sleek-panel-*": {
+    "doortall-sleek-panel-*": {
       "wood": { "base": "game:block/wood/door/sleek/{wood}" },
       "metal": { "base": "game:block/metal/ingot/iron" }
     },
-    "door-tall-solid-*": {
+    "doortall-solid-*": {
       "wood": {
         "base": "game:block/wood/debarked/{wood}",
         "rotation": 90,
