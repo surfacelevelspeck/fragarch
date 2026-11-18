@@ -1,10 +1,20 @@
 {
+  // miscellaneous
   "game:tabname-fragarch": "Fragmented Architecture",
-  "fragarch:block-door-sleek-panel-*": "Paneled door",
-  "fragarch:block-door-tall-sleek-windowed-*": "Tall sleek door",
-  "fragarch:block-door-tall-sleek-panel-*": "Tall paneled door",
-  "fragarch:block-door-tall-solid-*": "Tall solid door",
-  
+  "fragarch:block-doorpanel-*": "Paneled door",
+  "fragarch:block-doortall-sleek-windowed-*": "Tall sleek door",
+  "fragarch:block-doortall-sleek-panel-*": "Tall paneled door",
+  "fragarch:block-doortall-solid-*": "Tall solid door",
+
+  // cairnstrum
+
+  // hirudo
+
+  // tempestar
+  "fragarch:block-windowdzong-*": "Akaza-setu window",
+  // varash
+
+  // overrides
   "game:block-door-1x3gate-*": "1 by 3 gate",
   "bdtree:block-door-1x3gate-*": "1 by 3 gate"
 }
