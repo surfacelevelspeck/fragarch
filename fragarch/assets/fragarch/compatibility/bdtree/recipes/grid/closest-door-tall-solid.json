@@ -8,7 +8,7 @@
     "allowedVariants": { "bdwood": ["mangrove", "saxaul"] },
     "width": 2,
     "height": 3,
-    "output": { "type": "block", "code": "fragarch:door-tall-solid-birch" }
+    "output": { "type": "block", "code": "fragarch:doortall-solid-birch" }
   },
   {
     "name": "Tall solid door (Oak)",
@@ -19,7 +19,7 @@
     "allowedVariants": { "bdwood": ["catalpa", "sal", "tamanu"] },
     "width": 2,
     "height": 3,
-    "output": { "type": "block", "code": "fragarch:door-tall-solid-oak" }
+    "output": { "type": "block", "code": "fragarch:doortall-solid-oak" }
   },
   {
     "name": "Tall solid door (Maple)",
@@ -30,7 +30,7 @@
     "allowedVariants": { "bdwood": ["fir", "ohia", "poplar"] },
     "width": 2,
     "height": 3,
-    "output": { "type": "block", "code": "fragarch:door-tall-solid-maple" }
+    "output": { "type": "block", "code": "fragarch:doortall-solid-maple" }
   },
   {
     "name": "Tall solid door (Pine)",
@@ -41,7 +41,7 @@
     "allowedVariants": { "bdwood": ["cedar", "horsechestnut", "spruce", "tuja"] },
     "width": 2,
     "height": 3,
-    "output": { "type": "block", "code": "fragarch:door-tall-solid-pine" }
+    "output": { "type": "block", "code": "fragarch:doortall-solid-pine" }
   },
   {
     "name": "Tall solid door (Acacia)",
@@ -52,7 +52,7 @@
     "allowedVariants": { "bdwood": ["azobe", "eucalyptus", "rosewood", "mahogany"] },
     "width": 2,
     "height": 3,
-    "output": { "type": "block", "code": "fragarch:door-tall-solid-acacia" }
+    "output": { "type": "block", "code": "fragarch:doortall-solid-acacia" }
   },
   {
     "name": "Tall solid door (Kapok)",
@@ -63,7 +63,7 @@
     "allowedVariants": { "bdwood": ["banyan", "ginkgo", "satinash"] },
     "width": 2,
     "height": 3,
-    "output": { "type": "block", "code": "fragarch:door-tall-solid-kapok" }
+    "output": { "type": "block", "code": "fragarch:doortall-solid-kapok" }
   },
   {
     "name": "Tall solid door (Bald cypress)",
@@ -74,7 +74,7 @@
     "allowedVariants": { "bdwood": ["empresstree", "sycamore"] },
     "width": 2,
     "height": 3,
-    "output": { "type": "block", "code": "fragarch:door-tall-solid-baldcypress" }
+    "output": { "type": "block", "code": "fragarch:doortall-solid-baldcypress" }
   },
   {
     "name": "Tall solid door (Larch)",
@@ -85,7 +85,7 @@
     "allowedVariants": { "bdwood": ["beech", "ghostgum"] },
     "width": 2,
     "height": 3,
-    "output": { "type": "block", "code": "fragarch:door-tall-solid-larch" }
+    "output": { "type": "block", "code": "fragarch:doortall-solid-larch" }
   },
   {
     "name": "Tall solid door (Redwood)",
@@ -96,7 +96,7 @@
     "allowedVariants": { "bdwood": ["douglasfir", "linden"] },
     "width": 2,
     "height": 3,
-    "output": { "type": "block", "code": "fragarch:door-tall-solid-redwood" }
+    "output": { "type": "block", "code": "fragarch:doortall-solid-redwood" }
   },
   {
     "name": "Tall solid door (Ebony)",
@@ -107,7 +107,7 @@
     "allowedVariants": { "bdwood": ["bearnut", "charred", "dalbergia", "leadwood", "sapele", "tigerwood"] },
     "width": 2,
     "height": 3,
-    "output": { "type": "block", "code": "fragarch:door-tall-solid-ebony" }
+    "output": { "type": "block", "code": "fragarch:doortall-solid-ebony" }
   },
   {
     "name": "Tall solid door (Walnut)",
@@ -118,7 +118,7 @@
     "allowedVariants": { "bdwood": ["ash", "elm", "guajacum", "kauri", "spurgetree"] },
     "width": 2,
     "height": 3,
-    "output": { "type": "block", "code": "fragarch:door-tall-solid-walnut" }
+    "output": { "type": "block", "code": "fragarch:doortall-solid-walnut" }
   },
   {
     "name": "Tall solid door (Purpleheart)",
@@ -129,6 +129,6 @@
     "allowedVariants": { "bdwood": ["bluemahoe", "honeylocust", "redcedar", "umnini"] },
     "width": 2,
     "height": 3,
-    "output": { "type": "block", "code": "fragarch:door-tall-solid-purpleheart" }
+    "output": { "type": "block", "code": "fragarch:doortall-solid-purpleheart" }
   }
 ]

@@ -11,7 +11,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-panel-birch" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-panel-birch" }
   },
   {
     "name": "Tall panel door (Oak)",
@@ -25,7 +25,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-panel-oak" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-panel-oak" }
   },
   {
     "name": "Tall panel door (Maple)",
@@ -39,7 +39,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-panel-maple" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-panel-maple" }
   },
   {
     "name": "Tall panel door (Pine)",
@@ -53,7 +53,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-panel-pine" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-panel-pine" }
   },
   {
     "name": "Tall panel door (Acacia)",
@@ -67,7 +67,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-panel-acacia" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-panel-acacia" }
   },
   {
     "name": "Tall panel door (Kapok)",
@@ -81,7 +81,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-panel-kapok" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-panel-kapok" }
   },
   {
     "name": "Tall panel door (Bald cypress)",
@@ -95,7 +95,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-panel-baldcypress" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-panel-baldcypress" }
   },
   {
     "name": "Tall panel door (Larch)",
@@ -109,7 +109,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-panel-larch" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-panel-larch" }
   },
   {
     "name": "Tall panel door (Redwood)",
@@ -123,7 +123,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-panel-redwood" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-panel-redwood" }
   },
   {
     "name": "Tall panel door (Ebony)",
@@ -137,7 +137,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-panel-ebony" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-panel-ebony" }
   },
   {
     "name": "Tall panel door (Walnut)",
@@ -151,7 +151,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-panel-walnut" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-panel-walnut" }
   },
   {
     "name": "Tall panel door (Purpleheart)",
@@ -165,6 +165,6 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-panel-purpleheart" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-panel-purpleheart" }
   }
 ]

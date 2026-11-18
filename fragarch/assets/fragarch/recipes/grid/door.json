@@ -27,6 +27,6 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-sleek-panel-{wood}" }
+    "output": { "type": "Block", "code": "fragarch:doorpanel-{wood}" }
   }
 ]

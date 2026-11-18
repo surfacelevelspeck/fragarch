@@ -7,7 +7,7 @@
     },
     "width": 2,
     "height": 3,
-    "output": { "type": "block", "code": "fragarch:door-tall-solid-{wood}" }
+    "output": { "type": "block", "code": "fragarch:doortall-solid-{wood}" }
   },
   {
     "name": "Tall sleek door",
@@ -23,7 +23,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-{wood}" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-windowed-{wood}" }
   },
   {
     "name": "Tall panel door",
@@ -37,6 +37,6 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-panel-{wood}" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-panel-{wood}" }
   }
 ]

@@ -15,7 +15,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-birch" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-windowed-birch" }
   },
   {
     "name": "Tall sleek door (Oak)",
@@ -33,7 +33,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-oak" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-windowed-oak" }
   },
   {
     "name": "Tall sleek door (Maple)",
@@ -51,7 +51,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-maple" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-windowed-maple" }
   },
   {
     "name": "Tall sleek door (Pine)",
@@ -69,7 +69,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-pine" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-windowed-pine" }
   },
   {
     "name": "Tall sleek door (Acacia)",
@@ -87,7 +87,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-acacia" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-windowed-acacia" }
   },
   {
     "name": "Tall sleek door (Kapok)",
@@ -105,7 +105,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-kapok" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-windowed-kapok" }
   },
   {
     "name": "Tall sleek door (Bald cypress)",
@@ -123,7 +123,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-baldcypress" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-windowed-baldcypress" }
   },
   {
     "name": "Tall sleek door (Larch)",
@@ -141,7 +141,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-larch" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-windowed-larch" }
   },
   {
     "name": "Tall sleek door (Redwood)",
@@ -159,7 +159,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-redwood" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-windowed-redwood" }
   },
   {
     "name": "Tall sleek door (Ebony)",
@@ -177,7 +177,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-ebony" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-windowed-ebony" }
   },
   {
     "name": "Tall sleek door (Walnut)",
@@ -195,7 +195,7 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-walnut" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-windowed-walnut" }
   },
   {
     "name": "Tall sleek door (Purpleheart)",
@@ -213,6 +213,6 @@
     "requiresTrait": "wood-basic",
     "width": 3,
     "height": 3,
-    "output": { "type": "Block", "code": "fragarch:door-tall-sleek-windowed-purpleheart" }
+    "output": { "type": "Block", "code": "fragarch:doortall-sleek-windowed-purpleheart" }
   }
 ]
